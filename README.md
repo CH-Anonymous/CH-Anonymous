@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Chirag Khatri</h1>
-<h3 align="center">🎓 I'm a passionate learner and tech enthusiast currently pursuing my studies and exploring the world of software development.</h3>
+<h3 align="center">🎓 Passionate about coding, cybersecurity, and creative software development. Currently working on projects that mix practicality with innovation!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-anonymous&label=Profile%20views&color=0e75b6&style=flat" alt="ch-anonymous" /> </p>
 
-- 💬 Ask me about **💻 I love programming, especially in C, Python, and Web Development. 📊 I'm building projects in areas like: Decentralized Identity Management (DIMS) Personal Finance Manager (in C) Medical Management System (Python & Flask) Anti-Keylogger Scanner (Python + Tkinter) 🎯 My goal is to blend creativity with technology to make meaningful impacts.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-anonymous" alt="ch-anonymous" /></a> </p>
+
+- 🔭 I’m currently working on [Anti-Keylogger Scanner Tool](https://github.com/CH-Anonymous/anti-keylogger-scanner)
+
+- 🌱 I’m currently learning **React, Vue, GSAP, and Internet Computer Protocol (ICP)**
+
+- 👯 I’m looking to collaborate on **Open-source security tools**
+
+- 🤝 I’m looking for help with [UI/UX improvements in Flask projects](https://github.com/CH-Anonymous/Medical_Management_System)
+
+- 💬 Ask me about **Python, C, Flask, Web Dev, and Anti-Keyloggers**
 
 - 📫 How to reach me **chiragkhatrigk@gmail.com**
+
+- ⚡ Fun fact **T think I am funny 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
