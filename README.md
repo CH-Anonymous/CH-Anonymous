@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chirag Khatri</h1>
 <h3 align="center">🎓 Passionate about coding, cybersecurity, and creative software development. Currently working on projects that mix practicality with innovation!</h3>
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-anonymous&label=Profile%20views&color=0e75b6&style=flat" alt="ch-anonymous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-anonymous" alt="ch-anonymous" /></a> </p> 
+
+---
 
 - 🔭 I’m currently working on [Anti-Keylogger Scanner Tool](https://github.com/CH-Anonymous/anti-keylogger-scanner)  
 - 🌱 I’m currently learning **React, Vue, GSAP, and Internet Computer Protocol (ICP)**  
@@ -70,7 +74,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-anonymous&show_icons=true&locale=en&layout=compact" alt="ch-anonymous" /></p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-anonymous&show_icons=true&locale=en" alt="ch-anonymous" /></p>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-anonymous&" alt="ch-anonymous" /></p>
 
