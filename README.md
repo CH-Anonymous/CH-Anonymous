@@ -76,7 +76,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-anonymous&show_icons=true&locale=en" alt="ch-anonymous" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-anonymous&show_icons=true&locale=en" alt="ch-anonymous" /></p>
 
 ---
 
